@@ -99,5 +99,5 @@ urllib3==1.25.8
 wcwidth==0.1.8
 webexteamssdk==1.2
 websocket-client==0.54.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 zope.interface==4.7.1
