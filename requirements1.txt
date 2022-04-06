@@ -51,7 +51,7 @@ matplotlib==2.2.5
 mattermostwrapper==2.2
 mock==4.0.1
 networkx==2.4
-numpy==1.16.1
+numpy==1.21.0
 opencv-python==4.0.0.21
 packaging==18.0
 pika==0.12.0
